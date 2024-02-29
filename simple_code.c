@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
  * simple_code  - swaps the values of two integers
  * @a: integer to swap
